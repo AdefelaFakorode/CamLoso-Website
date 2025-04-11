@@ -161,8 +161,18 @@ function LandingPage() {
 
       {/*Footer*/}
       <footer className="text-center text-black py-4 text-[8px] xl:text-[12px]">
-        <p>Built and designed by Adefela Fakorode.</p>
-        <p>All rights reserved. ©</p>
+      <p>
+    Built and designed by{" "}
+    <a
+      href="https://adefela.tv"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-[#868686]"
+    >
+      Adefela Fakorode
+    </a>.
+  </p>
+  <p>All rights reserved. ©</p>
       </footer>
     </div>
   );
