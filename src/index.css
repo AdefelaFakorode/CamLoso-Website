@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'SpecialGothicExpanded';
+  src: url('./fonts/SpecialGothicExpandedOne-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-gothic: 'SpecialGothicExpanded', sans-serif;
+
+  --color-losoRed: #980100;
+  --color-losoLight: #EBE6DB;
+
+  --breakpoint-xs: 0px;
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+}
+
+/* * {
+  border: 1px solid rgb(159, 159, 250);
+} */
