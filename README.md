@@ -8,3 +8,7 @@
   The first iteration of <a href="https://ph3nomtv.netlify.app">Ph3nom.tv</a> was built with React.js leveraging Tailwind.css.
 </p>
 <img src="https://github.com/user-attachments/assets/2ff12c3c-6dc7-4721-b229-310c89a1fff4"/>
+<p align="center">
+  <a href="https://ph3nomtv.netlify.app">Ph3nom.tv</a> Wireframne.
+</p>
+<img src="https://github.com/user-attachments/assets/0e0dd247-5fb5-478e-bac5-c88e93cde23e"/>
