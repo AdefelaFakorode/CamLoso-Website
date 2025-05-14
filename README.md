@@ -11,4 +11,3 @@
 <p align="center">
   <a href="https://camloso-website.netlify.app">Camloso.tv</a> Wireframne.
 </p>
-<img src="https://github.com/user-attachments/assets/c6660a4c-4106-4d2d-9128-e2c96f9afeed"/>
