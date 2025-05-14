@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6079c071-2e1f-4c42-b5d1-3194191279521" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/70116a71-a0c5-4fe5-a067-54cec1c17a0b" width="50" height="50"/>
 </p>
 <h1 align="center">
   <a href="https://ph3nomtv.netlify.app">Camloso.tv - v1</a>
