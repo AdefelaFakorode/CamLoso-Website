@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/70116a71-a0c5-4fe5-a067-54cec1c17a0b" width="50" height="50"/>
-</p>
 <h1 align="center">
   <a href="https://ph3nomtv.netlify.app">Camloso.tv - v1</a>
 </h1>
@@ -11,3 +8,4 @@
 <p align="center">
   <a href="https://camloso-website.netlify.app">Camloso.tv</a> Wireframne.
 </p>
+<img src="https://github.com/user-attachments/assets/ac2387b3-c47e-4b15-99a1-c9e91fe37412"/>
