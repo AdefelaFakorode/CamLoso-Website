@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2304db6-f46b-4e85-86f0-56a2e1bd1551" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/6079c071-2e1f-4c42-b5d1-3194191279521" width="50" height="50"/>
 </p>
 <h1 align="center">
   <a href="https://ph3nomtv.netlify.app">Ph3nom.tv - v1</a>
